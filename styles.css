@@ -1,0 +1,100 @@
+*{font-family: "Montserrat";
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+.button-main {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 30px;
+    cursor: pointer;
+    font-size: 28px;
+    width: 239px;
+    height: 64px;
+    font-weight: 700;
+    line-height: 34px;
+    
+}
+
+h1 {
+    font-size: 48px;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+.pros-contras {
+    font-size: 36px;
+    color: #333;
+    margin-bottom: 20px;
+}
+.beneficios {
+    font-size: 36px;
+    color: #333;
+    margin-bottom: 20px;
+}
+.contras {
+    font-size: 36px;
+    color: #333;
+    margin-bottom: 20px;
+}
+.descricao {
+    font-size: 24px;
+    color: #555;
+    margin-bottom: 20px;
+}
+.contaminacao {
+    font-size: 24px;
+    color: #555;
+    margin-bottom: 20px;
+}
+.conservacao {
+    font-size: 24px;
+    color: #555;
+    margin-bottom: 20px;
+}
+.reciclagem {
+    font-size: 24px;
+    color: #555;
+    margin-bottom: 20px;
+}
+.doacao {
+    font-size: 24px;
+    color: #555;
+    margin-bottom: 20px;
+}
+.preparo {
+    font-size: 36px;
+    color: #555;
+    margin-bottom: 20px;
+}
+.onde-descartar {
+    font-size: 36px;
+    color: #555;
+    margin-bottom: 20px;
+}
+.preparo-lista {
+    font-size: 24px;
+    color: #555;
+    margin-bottom: 20px;
+    list-style-type: decimal;
+    padding-left: 20px;
+}
+.onde-descartar-lista {
+    font-size: 24px;
+    color: #555;
+    margin-bottom: 20px;
+    list-style-type: disc;
+    padding-left: 20px;
+}
+.riscos {
+    font-size: 36px;
+    color: #555;
+    margin-bottom: 20px;
+}
+
+
+
+
+
